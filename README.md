@@ -1,7 +1,7 @@
 Personal Kanban
 ===============
 
-Easily Manage Your Projects With Kanban.
+Easily manage your projects with Personal Kanban.
 
 This repository functions as public issue tracker.
 
