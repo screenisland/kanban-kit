@@ -9,4 +9,4 @@ User Guide:
 http://screenisland.com/personal-kanban/
 
 Mac App Store Link:
-tbd.
+https://itunes.apple.com/de/app/personal-kanban/id879870851
