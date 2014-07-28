@@ -1,7 +1,7 @@
-Personal Kanban
+Kanban Kit
 ===============
-Easily manage your projects with Personal Kanban. This repository functions as public issue tracker.
-![Personal Kanban](http://screenisland.com/personal-kanban/img/pk@1x.png)
+Easily manage your projects with Kanban Kit. This repository functions as public issue tracker.
+![Personal Kanban](http://screenisland.com/kanban-kit/img/pk@1x.png)
 
 ##News:
 July 2014:
@@ -19,7 +19,7 @@ Changelog:
 
 
 ##User Guide:
-http://screenisland.com/personal-kanban/
+http://screenisland.com/kanban-kit/
 
 ##Mac App Store Link:
-https://itunes.apple.com/de/app/personal-kanban/id879870851
+https://itunes.apple.com/de/app/kanban-kit/id879870851?mt=12
