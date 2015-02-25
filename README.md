@@ -1,7 +1,7 @@
 Kanban Kit
 ===============
 Easily manage your projects with Kanban Kit. This repository functions as public issue tracker.
-![Kanban Kit](http://screenisland.com/kanban-kit/img/kk@1x.png)
+![Kanban Kit](http://screenisland.com/kanban-kit/img/kk@2x.png)
 
 ##News:
 July 2014:
